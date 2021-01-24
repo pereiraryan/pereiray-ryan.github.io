@@ -26,7 +26,7 @@ project_two_icon: photo_camera
 
 project_three: myConsole
 project_three_description: A JavaScript editor for you phone, in JavaScript.
-project_three_url: http://pereiraryan.ooo/myConsole/
+project_three_url: https://pereiraryan.github.io/myConsole/
 project_three_icon: hotel
 
 
@@ -34,6 +34,11 @@ project_four: My Personal Blog
 project_four_description: This blog is created with an intention to share my thoughts and experiences on new products and other entertainments.hope to have a awesome time.
 project_four_url: https://pereiraryan.wordpress.com
 project_four_icon: restaurant
+
+project_five: Professional websites
+project_five_description: This blog is created with an intention to share my thoughts and experiences on new products and other entertainments.hope to have a awesome time.
+project_five_url: https://www.logicboxes.com
+project_five_icon: photo_camera
 
 # Skill icons from https://konpa.github.io/devicon/
 
